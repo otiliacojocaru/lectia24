@@ -1,0 +1,14 @@
+.listItem {
+    list-style: none;
+}
+
+.btnWrapper {
+    display: flex;
+    gap: 32px;
+}
+
+.pColor {
+    color: rgb(203, 73, 131);
+    font-size: 24px;
+    font-weight: 700;
+}
